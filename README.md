@@ -1,3 +1,5 @@
+<p align="center"><img scr="https://user-images.githubusercontent.com/76907376/232702585-45dbd43d-1359-48a9-bffa-8bf6a99bcd89.svg" width="200" height="200"/></p>
+
 ## [ ApexLegends 1 on 1 Fight Situation-Randomizer ]
 **_Developed by. MintCat98_**
 
