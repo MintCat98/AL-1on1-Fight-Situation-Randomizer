@@ -1,17 +1,17 @@
-<p align="center"><img scr="https://user-images.githubusercontent.com/76907376/232702585-45dbd43d-1359-48a9-bffa-8bf6a99bcd89.svg" width="200" height="200"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/76907376/232702585-45dbd43d-1359-48a9-bffa-8bf6a99bcd89.svg" width="200" height="200" /></p>
 
-## [ ApexLegends 1 on 1 Fight Situation-Randomizer ]
-**_Developed by. MintCat98_**
+## <p align="center">[ ApexLegends 1 on 1 Fight Situation-Randomizer ]</p>
+**_<p align="right">Developed by. MintCat98</p>_**
 
 ---
 
-### Updates
+## Updates
 - **Last update**: _2023-04-15_
 - **Latest version**: _v-0.0.0_
 - _[Dev History](https://dusty-range-725.notion.site/ApexLegends-1-on-1-Fight-Situation-Randomizer-beb503bcbcc44ff1977fc54b02c5d7a6) <span style="color: #808080">(Sorry for Korean words)</span>_
 
-### App Info.
-#### [Purpose]:
+## App Info.
+### [Purpose]:
 When you want to practice '1 on 1 fight' in the Firing Range,<br>
 you might choose your most favorite gun-combination every time.<br>
 Of course, it is an important practice.<br>
@@ -36,5 +36,5 @@ However, I found out some necessities of practices under randomized situation.
 
 *(And for other bad situations)*
 
-#### [Features]:
+### [Features]:
 1. TBA
