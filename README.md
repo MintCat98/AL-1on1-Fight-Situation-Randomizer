@@ -8,7 +8,7 @@
 ## Updates
 - **Last update**: _2023-04-15_
 - **Latest version**: _v-0.0.0_
-- _[Dev History](https://dusty-range-725.notion.site/ApexLegends-1-on-1-Fight-Situation-Randomizer-beb503bcbcc44ff1977fc54b02c5d7a6) <span style="color: #808080">(Sorry for Korean words)</span>_
+- _[Dev History](https://dusty-range-725.notion.site/ALFSR-ApexLegends-1-on-1-Fight-Situation-Randomizer-fede1f45b3dd4266bac8118ad2c7b8b5) <span style="color: #808080">(Sorry for Korean words)</span>_
 
 ## App Info.
 ### [Purpose]:
